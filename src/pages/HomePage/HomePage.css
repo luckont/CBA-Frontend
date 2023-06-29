@@ -1,0 +1,20 @@
+.col {
+    margin: 1rem 0;
+}
+.list-news{
+    margin: 0;
+    padding-top: 10px;
+    height: 330px;
+    overflow: scroll;
+}
+.title-context{
+    border-left: 8px solid #00A1DC;
+    border-bottom: 2px solid #00A1DC;
+    padding: 0 5px;
+    font-weight: bold;
+    color: #2E3192;
+}
+/* .card-atten{
+    flex-wrap: nowrap;
+    overflow: hidden;
+} */
